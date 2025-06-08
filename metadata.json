@@ -1,0 +1,93 @@
+{
+  "Bokor-Kencono": {
+    "origin": "Solo",
+    "philosophy": "Lambang kemewahan, kejayaan, dan kekuasaan raja.",
+    "history": "Dipakai oleh keluarga keraton dalam upacara penting kenegaraan.",
+    "colors": ["Emas", "Coklat", "Hitam"],
+    "usage": "Upacara kerajaan, kebesaran tradisional"
+  },
+  "Kawung": {
+    "origin": "Yogyakarta",
+    "philosophy": "Kesucian, kendali diri, dan keadilan.",
+    "history": "Motif kuno yang mencerminkan buah aren dan digunakan sebagai simbol kebijaksanaan kerajaan.",
+    "colors": ["Putih", "Abu-abu", "Hitam"],
+    "usage": "Pakaian adat resmi dan spiritual"
+  },
+  "Mega-Mendung": {
+    "origin": "Cirebon",
+    "philosophy": "Kesabaran dan keteguhan hati dalam menghadapi cobaan.",
+    "history": "Dipengaruhi oleh budaya Tionghoa dan berkembang di Kesultanan Cirebon.",
+    "colors": ["Biru", "Abu-abu", "Merah"],
+    "usage": "Dekorasi, fashion modern"
+  },
+  "Parang": {
+    "origin": "Yogyakarta",
+    "philosophy": "Simbol kekuatan, keberanian, dan kontinuitas dalam perjuangan.",
+    "history": "Motif ini berasal dari Kerajaan Mataram dan awalnya hanya digunakan oleh keluarga kerajaan.",
+    "colors": ["Coklat", "Hitam", "Putih"],
+    "usage": "Upacara adat, pakaian resmi bangsawan"
+  },
+  "Sekar-Jagad": {
+    "origin": "Magelang",
+    "philosophy": "Melambangkan keindahan dan keberagaman dunia.",
+    "history": "Motif ini menyatukan banyak pola untuk merepresentasikan harmoni global.",
+    "colors": ["Merah", "Putih", "Biru"],
+    "usage": "Busana resmi dan festival budaya"
+  },
+  "Sidoluhur": {
+    "origin": "Yogyakarta",
+    "philosophy": "Keluhuran budi pekerti dan kehidupan yang harmonis.",
+    "history": "Digunakan oleh pengantin dan orang tua dalam acara adat.",
+    "colors": ["Hitam", "Coklat", "Krem"],
+    "usage": "Upacara adat, keluarga pengantin"
+  },
+  "Sidomukti": {
+    "origin": "Solo",
+    "philosophy": "Simbol kehidupan bahagia dan sejahtera.",
+    "history": "Dipakai dalam pernikahan sebagai doa untuk kemakmuran.",
+    "colors": ["Coklat", "Putih", "Emas"],
+    "usage": "Pernikahan adat Jawa"
+  },
+  "Sidomulyo": {
+    "origin": "Solo",
+    "philosophy": "Melambangkan harapan akan masa depan yang sejahtera dan penuh kebahagiaan.",
+    "history": "Motif tradisional untuk pasangan muda dalam prosesi pernikahan.",
+    "colors": ["Coklat", "Putih", "Kuning"],
+    "usage": "Pernikahan, acara keluarga"
+  },
+  "Srikaton": {
+    "origin": "Yogyakarta",
+    "philosophy": "Keanggunan dan keindahan yang memikat hati.",
+    "history": "Motif batik favorit para bangsawan wanita keraton.",
+    "colors": ["Pink", "Ungu", "Coklat"],
+    "usage": "Busana adat wanita, keraton"
+  },
+  "Tribusono": {
+    "origin": "Solo",
+    "philosophy": "Melambangkan harmoni antara manusia, alam, dan Tuhan.",
+    "history": "Motif klasik yang digunakan oleh spiritualis keraton.",
+    "colors": ["Hitam", "Putih", "Coklat"],
+    "usage": "Meditasi, upacara spiritual"
+  },
+  "Truntum": {
+    "origin": "Solo",
+    "philosophy": "Melambangkan cinta kasih sejati dan ketulusan yang tumbuh kembali.",
+    "history": "Diciptakan oleh Kanjeng Ratu Kencana untuk menunjukkan cinta yang abadi kepada suaminya.",
+    "colors": ["Emas", "Coklat", "Hitam"],
+    "usage": "Pernikahan, simbol kesetiaan"
+  },
+  "Wahyu-Tumurun": {
+    "origin": "Surakarta",
+    "philosophy": "Harapan agar berkah dan wahyu turun dari langit.",
+    "history": "Biasanya dikenakan oleh orang yang ingin mendapatkan posisi penting atau promosi.",
+    "colors": ["Hitam", "Emas", "Coklat"],
+    "usage": "Pernikahan, pelantikan, upacara syukuran"
+  },
+  "Wirasat": {
+    "origin": "Yogyakarta",
+    "philosophy": "Petunjuk dan wasiat untuk keturunan dalam menjalani hidup.",
+    "history": "Dikenakan oleh orang tua sebagai simbol restu kepada anak-anaknya.",
+    "colors": ["Coklat", "Putih", "Merah"],
+    "usage": "Upacara keluarga, restu pernikahan"
+  }
+}
